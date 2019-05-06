@@ -1,0 +1,9 @@
+"fleas"	1
+"cheese"	1
+"dogs"	2
+"eat"	2
+"raining"	1
+"cats"	3
+"have"	1
+"mice"	3
+"and"	3
